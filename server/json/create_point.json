@@ -1,0 +1,12 @@
+{
+	"name": "Mercado",
+	"email": "ponto@gmail.com",
+	"whatsapp": "51 999999999",
+	"latitude": -46.81273213,
+	"longitude": -35.19238112,
+	"city": "Taquara",
+	"uf": "RS",
+	"items": [
+		1,2,6
+	]
+}
