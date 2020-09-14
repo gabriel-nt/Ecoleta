@@ -9,7 +9,7 @@
 <p align="center">Aplicação Next Level Week 1 Edição</p>
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=node&message=7.0.0&color=339933&logo=node.js" />
+  <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
   <img src="https://img.shields.io/static/v1?label=react&message=16.9.0&color=61DAFB&logo=react" />
   <img src="https://img.shields.io/static/v1?label=react%20native&message=37.0.1&color=0088CC&logo=reactos" />
   <img src="https://img.shields.io/badge/last%20commit-september-important" />
