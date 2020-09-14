@@ -2,9 +2,9 @@
   <img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/logo.svg" alt="logo" height="60"/>
 </p>
 
-<!--<h1 align="center">
-    🚀 Ecoleta
-</h1>-->
+<h1 align="center">
+    🚀 NLW
+</h1>
 
 <p align="center">Aplicação Next Level Week 1 Edição</p>
 
@@ -19,7 +19,6 @@
 <p align="center">
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-pré-requisitos">Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-rodando-o-front-end-web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Lincença</a>
 </p>
@@ -28,7 +27,7 @@
 🚧  Finalizado  🚧
 </h3>
 
-### 📎 Features Backend
+### 📎 Features 
 
 - [x] Listar items de coleta.
 - [x] Listar pontos de coleta.
