@@ -39,7 +39,7 @@
 - [x] Entrar em contato, por whatsapp, com o ponto de coleta
 
 ### ✅ Demonstração
-<img src="" />
+<img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />
 
 ### ⚙ Pré-requisitos
 
