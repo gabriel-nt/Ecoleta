@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/logo.svg" alt="logo" height="60"/>
+  <img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/logo.svg" alt="logo" height="50"/>
 </p>
 
 <h1 align="center">
@@ -39,7 +39,7 @@
 - [x] Entrar em contato, por whatsapp, com o ponto de coleta
 
 ### ✅ Demonstração
-
+<img src="" />
 
 ### ⚙ Pré-requisitos
 
@@ -55,20 +55,20 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/Gabriel-Teixeira/Ecoleta
 
 # Navegue para a pasta
-$ cd backend
+$ cd server
 
 # Instale as dependências
 $ yarn
 
 # Execute a aplicação
-$ yarn start
+$ yarn dev
 ```
 
 ### 📗 Rodando o Frontend (web)
 
 ```bash
 # Navegue para a pasta
-$ cd frontend
+$ cd web
 
 # Instale as dependências
 $ yarn
@@ -110,6 +110,8 @@ Esse projeto foi utilizou das seguintes lib:
 - react-dropzone
 - Express
 - multer
+- react-leaflet
+- leaflet
 
 ### 📝 Licença
 
