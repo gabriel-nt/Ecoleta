@@ -2,9 +2,9 @@
   <img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/logo.svg" alt="logo" height="60"/>
 </p>
 
-<h1 align="center">
+<!--<h1 align="center">
     🚀 Ecoleta
-</h1>
+</h1>-->
 
 <p align="center">Aplicação Next Level Week 1 Edição</p>
 
