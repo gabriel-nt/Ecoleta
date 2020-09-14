@@ -38,6 +38,10 @@
 - [x] Mandar email para o ponto de coleta
 - [x] Entrar em contato, por whatsapp, com o ponto de coleta
 
+### 💻 Projeto
+
+Ecoleta é uma plataforma que montrar os pontos de coleta de orgânicos/recicláveis. Projeto desenvolvido durante a semana do Next Level Week 1ª Edição. 
+
 ### ✅ Demonstração
 <img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />
 
