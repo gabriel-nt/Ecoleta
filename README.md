@@ -97,7 +97,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - ReactJS
 - React Native
 - NodeJS
-- Typescripe
+- Typescript
 - SqLite3
 
 ### 📕 Bibliotecas
