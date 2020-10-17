@@ -43,7 +43,7 @@
 Ecoleta é uma plataforma que montrar os pontos de coleta de orgânicos/recicláveis. Projeto desenvolvido durante a semana do Next Level Week 1ª Edição. 
 
 ### ✅ Demonstração
-<img src="https://github.com/Gabriel-Teixeira/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />
+<img src="https://github.com/gabriel-nt/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />
 
 ### ⚙ Pré-requisitos
 
