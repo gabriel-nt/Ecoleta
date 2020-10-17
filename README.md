@@ -6,7 +6,7 @@
     🚀 NLW
 </h1>
 
-<p align="center">Aplicação Next Level Week 1 Edição</p>
+<p align="center">Aplicação Next Level Week 1ª Edição</p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=node&message=12.13.1&color=339933&logo=node.js" />
@@ -40,7 +40,7 @@
 
 ### 💻 Projeto
 
-Ecoleta é uma plataforma que montrar os pontos de coleta de orgânicos/recicláveis. Projeto desenvolvido durante a semana do Next Level Week 1ª Edição. 
+Ecoleta é uma plataforma que serve para mostrar os pontos de coleta de orgânicos/recicláveis em sua cidade. Projeto desenvolvido durante a semana do Next Level Week 1ª Edição. 
 
 ### ✅ Demonstração
 <img src="https://github.com/gabriel-nt/Ecoleta/blob/master/web/src/assets/dashboard.PNG" />
